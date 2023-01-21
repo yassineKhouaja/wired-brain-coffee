@@ -11,6 +11,7 @@ issueConfigs:
   - content:
       # Example 2: feature request
       - "Use Case"
+      - "Use Cases"
       - "Expected Behavior"
       - "Additional Context"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
